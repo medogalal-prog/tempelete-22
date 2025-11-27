@@ -918,6 +918,10 @@ video{
     order: -1;
     text-align: center;
   }
+  .contact-me .content form .button{
+    position: absolute;
+    left: 225px;
+  }
 }
 .contact-me  .container .content .info h4{
   text-transform: uppercase;
@@ -1012,4 +1016,4 @@ video{
   font-size: 18px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-/* end footer */
+/* end footer *
